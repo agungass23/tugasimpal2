@@ -1,0 +1,15 @@
+potek jual beli obat
+
+fungsional :
+1. sistem dapat mengimputkan data obat
+2. sistem dapat transaksi pembelian obat
+3. sistem dapat edit obat
+4. sistem dapat menampilkan data obat
+5. pendataan barang
+
+Non fungsional :
+1. opsional
+2. Informasi (data obat)
+
+
+~                              
